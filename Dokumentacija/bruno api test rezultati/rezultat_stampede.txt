@@ -1,0 +1,730 @@
+Executing 100 iterations in parallel...
+
+konkurentnost\stampede\stampede (200 OK) - 45 ms
+konkurentnost\stampede\stampede (200 OK) - 52 ms
+konkurentnost\stampede\stampede (200 OK) - 53 ms
+konkurentnost\stampede\stampede (200 OK) - 53 ms
+konkurentnost\stampede\stampede (200 OK) - 53 ms
+konkurentnost\stampede\stampede (200 OK) - 54 ms
+konkurentnost\stampede\stampede (200 OK) - 54 ms
+konkurentnost\stampede\stampede (200 OK) - 54 ms
+konkurentnost\stampede\stampede (200 OK) - 55 ms
+konkurentnost\stampede\stampede (200 OK) - 55 ms
+konkurentnost\stampede\stampede (200 OK) - 55 ms
+konkurentnost\stampede\stampede (200 OK) - 56 ms
+konkurentnost\stampede\stampede (200 OK) - 56 ms
+konkurentnost\stampede\stampede (200 OK) - 56 ms
+konkurentnost\stampede\stampede (200 OK) - 56 ms
+konkurentnost\stampede\stampede (200 OK) - 57 ms
+konkurentnost\stampede\stampede (200 OK) - 57 ms
+konkurentnost\stampede\stampede (200 OK) - 57 ms
+konkurentnost\stampede\stampede (200 OK) - 57 ms
+konkurentnost\stampede\stampede (200 OK) - 57 ms
+konkurentnost\stampede\stampede (200 OK) - 58 ms
+konkurentnost\stampede\stampede (200 OK) - 58 ms
+konkurentnost\stampede\stampede (200 OK) - 58 ms
+konkurentnost\stampede\stampede (200 OK) - 58 ms
+konkurentnost\stampede\stampede (200 OK) - 59 ms
+konkurentnost\stampede\stampede (200 OK) - 59 ms
+konkurentnost\stampede\stampede (200 OK) - 59 ms
+konkurentnost\stampede\stampede (200 OK) - 59 ms
+konkurentnost\stampede\stampede (200 OK) - 60 ms
+konkurentnost\stampede\stampede (200 OK) - 60 ms
+konkurentnost\stampede\stampede (200 OK) - 60 ms
+konkurentnost\stampede\stampede (200 OK) - 60 ms
+konkurentnost\stampede\stampede (200 OK) - 61 ms
+konkurentnost\stampede\stampede (200 OK) - 61 ms
+konkurentnost\stampede\stampede (200 OK) - 61 ms
+konkurentnost\stampede\stampede (200 OK) - 61 ms
+konkurentnost\stampede\stampede (200 OK) - 61 ms
+konkurentnost\stampede\stampede (200 OK) - 62 ms
+konkurentnost\stampede\stampede (200 OK) - 62 ms
+konkurentnost\stampede\stampede (200 OK) - 62 ms
+konkurentnost\stampede\stampede (200 OK) - 62 ms
+konkurentnost\stampede\stampede (200 OK) - 62 ms
+konkurentnost\stampede\stampede (200 OK) - 62 ms
+konkurentnost\stampede\stampede (200 OK) - 63 ms
+konkurentnost\stampede\stampede (200 OK) - 63 ms
+konkurentnost\stampede\stampede (200 OK) - 63 ms
+konkurentnost\stampede\stampede (200 OK) - 63 ms
+konkurentnost\stampede\stampede (200 OK) - 63 ms
+konkurentnost\stampede\stampede (200 OK) - 63 ms
+konkurentnost\stampede\stampede (200 OK) - 64 ms
+konkurentnost\stampede\stampede (200 OK) - 64 ms
+konkurentnost\stampede\stampede (200 OK) - 64 ms
+konkurentnost\stampede\stampede (200 OK) - 64 ms
+konkurentnost\stampede\stampede (200 OK) - 64 ms
+konkurentnost\stampede\stampede (200 OK) - 65 ms
+konkurentnost\stampede\stampede (200 OK) - 65 ms
+konkurentnost\stampede\stampede (200 OK) - 65 ms
+konkurentnost\stampede\stampede (200 OK) - 65 ms
+konkurentnost\stampede\stampede (200 OK) - 65 ms
+konkurentnost\stampede\stampede (200 OK) - 65 ms
+konkurentnost\stampede\stampede (200 OK) - 66 ms
+konkurentnost\stampede\stampede (200 OK) - 66 ms
+konkurentnost\stampede\stampede (200 OK) - 66 ms
+konkurentnost\stampede\stampede (200 OK) - 66 ms
+konkurentnost\stampede\stampede (200 OK) - 66 ms
+konkurentnost\stampede\stampede (200 OK) - 66 ms
+konkurentnost\stampede\stampede (200 OK) - 67 ms
+konkurentnost\stampede\stampede (200 OK) - 67 ms
+konkurentnost\stampede\stampede (200 OK) - 67 ms
+konkurentnost\stampede\stampede (200 OK) - 67 ms
+konkurentnost\stampede\stampede (200 OK) - 67 ms
+konkurentnost\stampede\stampede (200 OK) - 67 ms
+konkurentnost\stampede\stampede (200 OK) - 67 ms
+konkurentnost\stampede\stampede (200 OK) - 68 ms
+konkurentnost\stampede\stampede (200 OK) - 68 ms
+konkurentnost\stampede\stampede (200 OK) - 68 ms
+konkurentnost\stampede\stampede (200 OK) - 68 ms
+konkurentnost\stampede\stampede (200 OK) - 68 ms
+konkurentnost\stampede\stampede (200 OK) - 69 ms
+konkurentnost\stampede\stampede (200 OK) - 69 ms
+konkurentnost\stampede\stampede (200 OK) - 69 ms
+konkurentnost\stampede\stampede (200 OK) - 69 ms
+konkurentnost\stampede\stampede (200 OK) - 69 ms
+konkurentnost\stampede\stampede (200 OK) - 69 ms
+konkurentnost\stampede\stampede (200 OK) - 70 ms
+konkurentnost\stampede\stampede (200 OK) - 70 ms
+konkurentnost\stampede\stampede (200 OK) - 70 ms
+konkurentnost\stampede\stampede (200 OK) - 70 ms
+konkurentnost\stampede\stampede (200 OK) - 70 ms
+konkurentnost\stampede\stampede (200 OK) - 71 ms
+konkurentnost\stampede\stampede (200 OK) - 70 ms
+konkurentnost\stampede\stampede (200 OK) - 70 ms
+konkurentnost\stampede\stampede (200 OK) - 70 ms
+konkurentnost\stampede\stampede (200 OK) - 70 ms
+konkurentnost\stampede\stampede (200 OK) - 70 ms
+konkurentnost\stampede\stampede (200 OK) - 71 ms
+konkurentnost\stampede\stampede (200 OK) - 71 ms
+konkurentnost\stampede\stampede (200 OK) - 71 ms
+konkurentnost\stampede\stampede (200 OK) - 71 ms
+konkurentnost\stampede\stampede (200 OK) - 71 ms
+
+📊 Iteration Summary Table
+┌───────────┬────────┬──────────────────┬───────┬────────────┬───────────────┐
+│ Iteration │ Status │     Requests     │ Tests │ Assertions │ Duration (ms) │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #1        │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      53       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #2        │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      57       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #3        │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      56       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #4        │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      53       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #5        │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      45       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #6        │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      54       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #7        │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      54       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #8        │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      52       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #9        │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      56       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #10       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      56       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #11       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      55       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #12       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      56       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #13       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      55       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #14       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      54       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #15       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      53       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #16       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      55       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #17       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      58       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #18       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      57       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #19       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      57       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #20       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      59       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #21       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      57       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #22       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      57       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #23       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      58       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #24       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      58       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #25       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      58       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #26       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      59       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #27       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      59       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #28       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      59       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #29       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      60       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #30       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      60       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #31       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      60       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #32       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      60       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #33       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      61       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #34       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      61       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #35       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      61       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #36       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      61       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #37       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      61       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #38       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      62       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #39       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      62       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #40       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      62       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #41       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      62       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #42       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      62       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #43       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      62       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #44       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      63       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #45       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      63       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #46       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      63       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #47       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      63       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #48       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      63       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #49       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      63       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #50       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      64       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #51       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      64       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #52       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      64       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #53       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      64       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #54       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      64       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #55       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      65       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #56       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      65       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #57       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      65       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #58       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      65       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #59       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      65       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #60       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      65       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #61       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      66       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #62       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      66       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #63       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      66       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #64       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      66       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #65       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      66       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #66       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      66       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #67       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      67       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #68       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      67       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #69       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      67       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #70       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      67       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #71       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      67       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #72       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      67       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #73       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      67       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #74       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      68       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #75       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      68       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #76       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      68       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #77       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      68       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #78       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      68       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #79       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      69       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #80       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      69       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #81       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      69       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #82       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      69       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #83       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      69       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #84       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      69       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #85       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      70       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #86       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      70       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #87       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      70       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #88       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      70       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #89       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      70       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #90       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      71       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #91       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      70       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #92       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      70       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #93       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      70       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #94       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      70       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #95       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      70       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #96       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      71       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #97       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      71       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #98       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      71       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #99       │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      71       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ #100      │ ✓ PASS │   1 (1 Passed)   │  0/0  │    0/0     │      71       │
+├───────────┼────────┼──────────────────┼───────┼────────────┼───────────────┤
+│ TOTAL     │ ✓ PASS │ 100 (100 Passed) │  0/0  │    0/0     │      71       │
+└───────────┴────────┴──────────────────┴───────┴────────────┴───────────────┘
+
+
+Logovi:
+
+[22:34:12] Server slusa na http://localhost:5050/
+[22:34:12] Root folder: C:\Users\Vuk\Desktop\SisProg\WebServer\Fajlovi
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-1)
+[22:34:56] Obrada: osnovne.txt (Worker-5)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-10)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-8)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-9)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-2)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-14)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-15)
+[22:34:56] Obrada: osnovne.txt (Worker-4)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-7)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-12)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-11)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-6)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-13)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-3)
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-16)
+[22:34:56] Cache MISS: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Cache HIT (nakon cekanja): osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-2)
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-1)
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-14)
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-10)
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-15)
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-12)
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-6)
+[22:34:56] Obrada: osnovne.txt (Worker-8)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-5)
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-9)
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-7)
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-3)
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-11)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-4)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-2)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-16)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-1)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-14)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-10)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-15)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-13)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-6)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-12)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-8)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-5)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-9)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-7)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-3)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-11)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-4)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-2)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-16)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-1)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-14)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-10)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-15)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-13)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-8)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-12)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-9)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-5)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-6)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-7)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-3)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-11)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-4)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-2)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-16)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-1)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-14)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-10)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-15)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-13)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-8)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-12)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-9)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-5)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-6)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-7)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-3)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-11)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Obrada: osnovne.txt (Worker-4)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-2)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-16)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-1)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-14)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-10)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-15)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-13)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-8)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-12)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-9)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-5)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-6)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-7)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-3)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-11)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-4)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-2)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-16)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-1)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-14)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-10)
+[22:34:56] Primljen: osnovne.txt
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Obrada: osnovne.txt (Worker-15)
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Cache HIT: osnovne.txt
+[22:34:56] Zavrseno: osnovne.txt -> 200
+[22:34:56] Zavrseno: osnovne.txt -> 200

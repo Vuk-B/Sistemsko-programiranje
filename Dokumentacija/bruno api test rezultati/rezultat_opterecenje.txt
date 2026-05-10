@@ -1,0 +1,379 @@
+Executing 50 iterations in parallel...
+
+konkurentnost\opterecenje\opterecenje (200 OK) - 34 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 41 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 42 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 42 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 41 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 42 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 43 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 42 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 44 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 43 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 44 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 45 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 45 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 45 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 45 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 44 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 45 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 45 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 45 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 45 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 46 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 46 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 46 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 46 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 47 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 47 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 47 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 47 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 48 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 48 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 48 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 48 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 49 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 49 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 49 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 49 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 50 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 50 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 50 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 50 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 50 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 51 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 51 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 51 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 51 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 52 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 52 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 52 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 52 ms
+konkurentnost\opterecenje\opterecenje (200 OK) - 53 ms
+
+📊 Iteration Summary Table
+┌───────────┬────────┬────────────────┬───────┬────────────┬───────────────┐
+│ Iteration │ Status │    Requests    │ Tests │ Assertions │ Duration (ms) │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #1        │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      45       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #2        │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      44       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #3        │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      45       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #4        │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      34       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #5        │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      43       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #6        │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      42       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #7        │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      41       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #8        │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      44       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #9        │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      45       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #10       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      42       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #11       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      45       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #12       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      41       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #13       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      44       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #14       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      42       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #15       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      43       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #16       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      42       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #17       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      47       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #18       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      45       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #19       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      45       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #20       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      45       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #21       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      45       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #22       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      46       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #23       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      46       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #24       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      46       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #25       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      46       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #26       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      47       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #27       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      47       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #28       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      47       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #29       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      48       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #30       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      48       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #31       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      48       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #32       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      48       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #33       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      49       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #34       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      49       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #35       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      49       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #36       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      49       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #37       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      50       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #38       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      50       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #39       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      50       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #40       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      50       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #41       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      50       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #42       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      51       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #43       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      51       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #44       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      51       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #45       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      51       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #46       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      52       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #47       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      52       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #48       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      52       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #49       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      52       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ #50       │ ✓ PASS │  1 (1 Passed)  │  0/0  │    0/0     │      53       │
+├───────────┼────────┼────────────────┼───────┼────────────┼───────────────┤
+│ TOTAL     │ ✓ PASS │ 50 (50 Passed) │  0/0  │    0/0     │      53       │
+└───────────┴────────┴────────────────┴───────┴────────────┴───────────────┘
+
+Logovi:
+
+[22:36:38] Server slusa na http://localhost:5050/
+[22:36:38] Root folder: C:\Users\Vuk\Desktop\SisProg\WebServer\Fajlovi
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-1)
+[22:37:03] Obrada: brojevi.txt (Worker-7)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-5)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-10)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-11)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-4)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-14)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-15)
+[22:37:03] Obrada: brojevi.txt (Worker-6)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-9)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-12)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-3)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-8)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-13)
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-2)
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-16)
+[22:37:03] Cache MISS: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Cache HIT (nakon cekanja): brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-2)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-5)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-6)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-4)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-9)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-14)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-7)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-10)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-11)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-1)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-13)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-15)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-3)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-12)
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Obrada: brojevi.txt (Worker-2)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-16)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-8)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-6)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-4)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-9)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-14)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-7)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-10)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-11)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-1)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-13)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-15)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-3)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-12)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-2)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-16)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-8)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-6)
+[22:37:03] Primljen: brojevi.txt
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Obrada: brojevi.txt (Worker-4)
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Cache HIT: brojevi.txt
+[22:37:03] Zavrseno: brojevi.txt -> 200
+[22:37:03] Zavrseno: brojevi.txt -> 200

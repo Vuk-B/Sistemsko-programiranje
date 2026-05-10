@@ -1,0 +1,42 @@
+konkurentnost\paralelno\a (200 OK) - 22 ms
+konkurentnost\paralelno\b (200 OK) - 2 ms
+konkurentnost\paralelno\c (200 OK) - 1 ms
+konkurentnost\paralelno\d (200 OK) - 1 ms
+
+📊 Execution Summary
+┌───────────────┬──────────────┐
+│ Metric        │    Result    │
+├───────────────┼──────────────┤
+│ Status        │    ✓ PASS    │
+├───────────────┼──────────────┤
+│ Requests      │ 4 (4 Passed) │
+├───────────────┼──────────────┤
+│ Tests         │     0/0      │
+├───────────────┼──────────────┤
+│ Assertions    │     0/0      │
+├───────────────┼──────────────┤
+│ Duration (ms) │      57      │
+└───────────────┴──────────────┘
+
+Logovi:
+
+[22:28:16] Primljen: osnovne.txt
+[22:28:16] Obrada: osnovne.txt (Worker-1)
+[22:28:16] Cache MISS: osnovne.txt       
+[22:28:16] Zavrseno: osnovne.txt -> 200   
+[22:28:16] Primljen: mesovito.txt
+[22:28:16] Obrada: mesovito.txt (Worker-9)
+[22:28:16] Cache MISS: mesovito.txt       
+[22:28:16] Zavrseno: mesovito.txt -> 200  
+[22:28:16] Primljen: brojevi.txt
+[22:28:16] Obrada: brojevi.txt (Worker-6) 
+[22:28:16] Cache MISS: brojevi.txt        
+[22:28:16] Zavrseno: brojevi.txt -> 200   
+[22:28:16] Primljen: velicina.txt
+[22:28:16] Obrada: velicina.txt (Worker-2)
+[22:28:16] Cache MISS: velicina.txt       
+[22:28:16] Zavrseno: velicina.txt -> 200
+
+
+
+

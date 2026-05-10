@@ -1,0 +1,4 @@
+bru run > rezultat_svi.txt
+bru run konkurentnost/stampede --iteration-count 100 --parallel 
+bru run konkurentnost/paralelno --parallel 
+bru run konkurentnost/opterecenje --iteration-count 50 
