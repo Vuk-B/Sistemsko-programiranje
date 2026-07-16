@@ -1,0 +1,17 @@
+bin/
+obj/
+.env
+*.log
+test_server.py
+Dokumenta/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+*.code-workspace

@@ -1,0 +1,7 @@
+[21:00:16] [Thread 2] [INFO] Gasenje servera... cekanje na aktivne zahteve.
+[21:00:16] [Thread 4] [INFO] Server pokrenut na http://localhost:5050/
+[21:00:16] [Thread 4] [INFO] Root folder: C:\Users\Vuk\Desktop\Sistemsko programiranje\Projekat\Prvi deo\WebServer\Fajlovi
+[21:00:16] [Thread 4] [INFO] Max paralelnih obrada: 64
+[21:00:16] [Thread 4] [INFO] Pritisni Enter za gasenje servera...
+[21:00:16] [Thread 2] [INFO] Server uspesno ugasen.
+[21:00:16] [Thread 2] [INFO] Aplikacija zatvorena.
