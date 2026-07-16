@@ -2,6 +2,7 @@ bin/
 obj/
 .env
 *.log
+*.txt
 test_server.py
 Dokumenta/
 
